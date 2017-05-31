@@ -1,4 +1,4 @@
-##Translate Mittelpunkt  Wortschatz
+# Translate Mittelpunkt  Wortschatz
 
 Create a virtualEnv
 
